@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{7B188E2B-0731-453B-B80D-BBD48E6BB119}|Default">
+  <MonoDevelop.Ide.ItemProperties.GoodMoodUI.Android PreferredExecutionTarget="Android.1115fba155480902" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GoodMoodUI/Views/GoodMoodMainPage.xaml">
+    <Files>
+      <File FileName="GoodMoodUI/Views/GoodMoodMainPage.xaml" Line="34" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GoodMoodUI" expanded="True" selected="True">
+            <Node name="GoodMoodUI" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="GoodMoodMainPage.xaml" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="GoodMoodUI.iOS" expanded="True">
+              <Node name="Resources" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.GoodMoodUI.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.19246DB7-ED17-4769-94AD-22BF5FA8FA24" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
